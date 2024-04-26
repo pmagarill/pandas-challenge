@@ -1,1 +1,1 @@
-# pandas-challenge
+In this project, we are tasked with analyzing standardized test results for a school district.  We review cumulatively at the district level, as well as for individual schools. Additional factors are also analyzed, including school size, type, budget per student, as well as grade level within the schools.
